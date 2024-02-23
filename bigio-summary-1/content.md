@@ -1,5 +1,3 @@
-# Scrum and Kanban, Agile Teams, dan OKR
-
 ## Scrum and Kanban
 
 Scrum adalah salah satu framework projek manajemen yang membantu tim untuk mengatur pekerjaan. Dengan framework ini tim bisa mengelola dan bekerja hanya berdasarkan goal tertentu yang meliputi meeting, tools yang digunakan, dan role yang ada untuk menyelesaikan projek dengan lebih efisien. Scrum adalah salah satu cara untuk menyelesaikan sebuah pekerjaan sebagai sebuah tim dalam waktu yang singkat dan berkelanjutan dimana feedback yang muncul pada setiap iterasi akan digunakan sebagai bahan improve.
