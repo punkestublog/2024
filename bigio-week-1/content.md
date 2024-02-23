@@ -17,7 +17,7 @@ Tidak banyak yang bisa dilakukan dalam seminggu ini. Hari ini kami hanya diberik
 
 Di hari senin karena aku WFH, aku mencoba menghubungi mas Aji tentang hal apa yang perlu aku lakukan hari ini. Lalu ternyata aku ditugaskan untuk mempelajari tentang materi minggu ini lalu aku pun mulai mengerjakannya.
 
-Aku memulai dengan mengumpulkan materi apa yang bisa digunakan sebagai bahan summary. Kebanyak ku ambil dari website Atlassian. Aku menghabiskan waktu seharian untuk mengumpulkan bahan-bahan ini. Setelah selesai mengumpulkan semua bahannya, aku mulai membuat summary tentang Scrum dan Kanban.
+Aku memulai dengan mengumpulkan materi apa yang bisa digunakan sebagai bahan summary. Kebanyakan ku ambil dari blogs Atlassian. Aku menghabiskan waktu seharian untuk mengumpulkan bahan-bahan ini. Setelah selesai mengumpulkan semua bahannya, aku mulai membuat summary tentang Scrum dan Kanban.
 
 Lalu pada hari selasa aku melanjutkan summary dengan menambahkan tentang OKR dan Agile Team. Lalu akhirnya aku menyelesaikan summaryku dan bisa mengumpulkannya kepada mas Aji.
 
