@@ -13,7 +13,7 @@ Lalu ada Dicky, mobile developer tim Jogja. Dia berasal dari Magelang dan berkul
 Lalu ada Devan satu-satunya non-engineer di kantor Jogja. Dia berkuliah di tempat yang sama dengan mas Aji di Universitas Teknologi Digital Indonesia. Dia berasal dari Jogja dan menariknya ternyata dia juga ikut SIB di Hacktiv8 seangkatan denganku (ya dia UI/UX aku pastinya tidak kenal).
 
 ## Seminggu ini
-Tidak banyak yang bisa dilakukan dalam seminggu ini. Hari ini kami hanya diberikan materi tentang SDLC (Scrum dan Kanban), OKR, dan Agile Team [summarynya bisa diakses disini](https://punkestu.vercel.app/blog/bigio-summary-1).
+Tidak banyak yang bisa dilakukan dalam seminggu ini. Hari ini kami hanya diberikan materi tentang SDLC (Scrum dan Kanban), OKR, dan Agile Team [summarynya bisa diakses disini](/blog/bigio-summary-1).
 
 Di hari senin karena aku WFH, aku mencoba menghubungi mas Aji tentang hal apa yang perlu aku lakukan hari ini. Lalu ternyata aku ditugaskan untuk mempelajari tentang materi minggu ini lalu aku pun mulai mengerjakannya.
 
