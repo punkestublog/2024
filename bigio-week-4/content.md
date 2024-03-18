@@ -4,7 +4,7 @@ Minggu ini pertama kalinya aku WFO di kantor Jogjakarta. Jika kalian membayangka
 ## Hello WFO
 Hari senin minggu ini dimulai dengan hari libur. Iya hari senin tanggal merah sehingga tidak ada kegiatan yang perlu dilakukan dan diceritakan. Dengan begitu maka kegiatan WFO ku dimulai hari selasa.
 
-Hari selasa ini adalah hari pertamaku WFO. Aku berangkat sebelum pukul 9 namun ternyata kantor masih dikunci sehingga aku harus menunggu mentor. Setelah kantor buka akhirnya inilah pertama kalinya aku menginjakkan kaki di kantor BigIO Jogjakarta. Lalu tidak lama kemudian aku mendapatkan kabar dari Teams dimana kami diperintahkan untuk mempelajari buku Pragmatic programming yang sudah ku resume sebagian [disini](/pragprog-1).
+Hari selasa ini adalah hari pertamaku WFO. Aku berangkat sebelum pukul 9 namun ternyata kantor masih dikunci sehingga aku harus menunggu mentor. Setelah kantor buka akhirnya inilah pertama kalinya aku menginjakkan kaki di kantor BigIO Jogjakarta. Lalu tidak lama kemudian aku mendapatkan kabar dari Teams dimana kami diperintahkan untuk mempelajari buku Pragmatic programming yang sudah ku resume sebagian [disini](/blog/pragprog-1).
 
 Hari rabu tidak terlalu berbeda dengan hari sebelumnya. Aku berangkat sebelum jam 9 namun karena kunci sudah dititipkan pada penjaga kantor, maka aku bisa langsung masuk ke kantor. Pada hari ini kami diperintahkan untuk mempelajari tentang ASP.NET salah satu framework untuk membuat WebApp menggunakan bahasa C#. Framework ini nantinya akan digunakan pada projek yang akan diberikan. Kebetulan aku sedang mempelajari framework tersebut sehingga aku tinggal mereview kembali apa yang telah kupelajari.
 
